@@ -22,3 +22,7 @@ In the `Directory.Build.props` file, the following property groups should be con
 ```
 
 _Note: Notice the condition setup for the `sg.tests.ruleset`. Make sure your test projects naming conventions work for this condition._
+
+## License
+
+Copyright © 2019, GSoft inc. This code is licensed under the Apache License, Version 2.0. You may obtain a copy of this license at https://github.com/gsoft-inc/gsoft-license/blob/master/LICENSE.
